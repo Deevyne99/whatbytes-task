@@ -17,7 +17,7 @@ const UpdateModal = ({
       <div
         className={`${
           openModal ? 'flex' : 'hidden'
-        }  flex-col p-8 bg-white max-w-[500px] rounded-md h-[400px] mx-auto mt-12 w-full`}
+        }  flex-col p-8 bg-white max-w-[500px] rounded-md h-[400px] mx-auto mt-12 w-[95%]`}
       >
         <div className='flex justify-between'>
           <h2 className='font-bold text-xl'>Update score</h2>
